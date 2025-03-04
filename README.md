@@ -56,6 +56,3 @@ This project provides **statistical insights into diabetes prevalence**, helping
 
 ## 📩 Contact
 For inquiries, feel free to reach out via GitHub or email.
-
----
-*This project was conducted as part of a statistical modeling research initiative.*
